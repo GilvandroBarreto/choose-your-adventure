@@ -2,10 +2,10 @@ espada: "Espada do Rei Destruído"
 
 elmo: "Elmo da Face da Montanha"
 
-escudo: "Escudo Solari"
+escudo: "Escudo Agua"
 
 bag:
-    . 500 gold
-    . 5 hp potion
-    . 5 mana potion 
+    . 5 gold
+    . 1 hp potion
+    . 1 mana potion
 
