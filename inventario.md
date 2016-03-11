@@ -4,8 +4,9 @@ elmo: "Elmo da Face da Montanha"
 
 escudo: "Escudo Agua"
 
-bag:
-    . 5 gold
-    . 1 hp potion
-    . 1 mana potion
+asa: "Asa do Dragão Branco"
 
+bag:
+    . 100500 gold
+    . 5 hp potion
+    . 5 mana potion
